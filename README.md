@@ -12,7 +12,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Playwrite+DK+Loopet:wght@100..400&display=swap" rel="stylesheet">
-    <title>Sellymett</title>
   </head>
   <body>
     <center class="bo">

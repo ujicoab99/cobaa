@@ -12,7 +12,43 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Playwrite+DK+Loopet:wght@100..400&display=swap" rel="stylesheet">
+    <title>Sellymett</title>
   </head>
+  <style type="text/css">
+    body {
+      background-color: pink;
+    }
+    .pos_cen {
+      font-family: Playwrite DK Loopet;
+      width: 95%;
+      height: 100%;
+      font-size: 17px;
+      font-style: bold;
+      position: absolute;
+      top: 7%;
+    }
+    .app {
+      font-family: Pacifico;
+      margin: 0;
+      float: right;
+      position: absolute;
+      padding: 40% 40% 40%;
+      top: 61%;
+    }
+    .bro {
+      position: absolute;
+      top: 60%;
+    }
+    .bo {
+      position: relative;
+    }
+    .image {
+      position: absolute;
+      top: 63%;
+      padding: 0 40%;
+    }
+    
+  </style>
   <body>
     <center class="bo">
      <font face="Playwrite DK Loopet" bold><h1>HAPPY BIRTHDAY</h1></font>
